@@ -55,7 +55,7 @@
 #include <memory>
 #include <mutex>
 
-#include <Eigen/Geometry>
+#include Eigen/Geometry>
 
 namespace colmap {
 
